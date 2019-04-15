@@ -30,7 +30,7 @@ int main()
     for(fahr = 0; fahr <= UPPER; fahr = fahr + STEP)
     {
         celsius = (5.0/9.0) * (fahr-32.0);
-        printf("%3.0f%%\t%3.1f%%\n", fahr, celsius);
+        printf("%3.0f\t%3.1f\n", fahr, celsius);
     }
     
     
