@@ -21,7 +21,7 @@ int main()
     // while(fahr <= UPPER) {
     //     celsius = (5.0/9.0) * (fahr-32.0);
     //     // 输出对齐%3.1f表明至少占3个字符宽，且小数点后面有1位数字
-    //     printf("%3.0f%%\t%3.1f%%\n", fahr, celsius);
+    //     printf("%3.0f\t%3.1f\n", fahr, celsius);
     //     fahr = fahr + STEP;
     // }
 
